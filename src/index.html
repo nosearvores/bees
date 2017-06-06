@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!--!
+  v<%= htmlWebpackPlugin.options.metadata.version %> - Build: <%= htmlWebpackPlugin.options.metadata.buildDate %>
+  Author: <%= htmlWebpackPlugin.options.metadata.author %>
+-->
+<html>
+<head>
+  <% if (htmlWebpackPlugin.options.metadata.cordova) { %>
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' <%= htmlWebpackPlugin.options.metadata.urls.join(' ') %> 'unsafe-eval'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <script type="text/javascript" src="cordova.js"></script>
+  <% } %>
+
+  <meta charset="utf-8">
+  <title><%= htmlWebpackPlugin.options.metadata.pageTitle %></title>
+  <meta name="viewport" content="minimal-ui, width=device-width, user-scalable=no, initial-scale=1.0,  minimum-scale=1.0, maximum-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <base href="<%= htmlWebpackPlugin.options.metadata.publicPath %>">
+  <link rel="manifest" href="<%= htmlWebpackPlugin.options.metadata.publicPath %>web-app.manifest.json">
+</head>
+<body>
+  <div id="root">
+    Loading...
+  </div>
+
+  <%=htmlWebpackPlugin.files.webpackManifest%>
+</body>
+</html>

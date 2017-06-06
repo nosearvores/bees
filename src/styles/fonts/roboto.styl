@@ -1,0 +1,28 @@
+// ~ = webpack module resolver
+@import '~styles/imports'
+
+$robotoPath = $fontPath + '/Roboto'
+
+font-face($family, $fileName, $weight, $style)
+  $filePath = $robotoPath + '/' + $fileName
+  font-family: $family
+  src: url($filePath + '.eot')
+  src: url($filePath + '.eot?#iefix') format('embedded-opentype'),
+       url($filePath + '.woff2') format('woff2'),
+       url($filePath + '.woff') format('woff'),
+       url($filePath + '.ttf') format('ttf'),
+       url($filePath + '.svg#' + $fileName) format('svg')
+  font-weight: $weight
+  font-style: $style
+
+@font-face
+  font-face('Roboto', 'Roboto-Regular', 400, normal)
+
+@font-face
+  font-face('Roboto', 'Roboto-Italic', 400, italic)
+
+@font-face
+  font-face('Roboto', 'Roboto-Bold', 700, normal)
+
+@font-face
+  font-face('Roboto', 'Roboto-BoldItalic', 700, italic)

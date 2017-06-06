@@ -1,0 +1,38 @@
+{
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaVersion": 7,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "env": {
+    "browser": true
+  },
+  "extends": [
+    "standard",
+    "plugin:react/recommended"
+  ],
+  "plugins": [
+    "standard",
+    "import",
+    "promise",
+    "react"
+  ],
+  "globals": {
+    "ga": true,
+    "cordova": true,
+    "StatusBar": true
+  },
+  "rules": {
+    "no-useless-constructor": 0,
+    "semi": [2, "always"],
+
+    "standard/object-curly-even-spacing": [2, "either"],
+    "standard/array-bracket-even-spacing": [2, "either"],
+    "standard/computed-property-even-spacing": [2, "even"],
+
+    "promise/param-names": 2
+  }
+}

@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Node Files
+/node_modules/
+npm-debug.log
+npm-debug.log*
+
+# Build
+/dist/
+/logs/
+*.log
+
+# Public
+/public/
+
+# Env
+.env*
+!.env.example
+
+
+
+##################
+# Keep directories
+!.gitkeep

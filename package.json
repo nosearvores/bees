@@ -1,0 +1,49 @@
+{
+  "scripts": {
+    "test": "mira test unit",
+    "start": "mira serve debug",
+    "release": "mira serve release",
+    "clean": "rimraf dist",
+    "build": "npm run clean && mira build"
+  },
+  "dependencies": {
+    "history": "^4.6.1",
+    "immutable": "^3.8.1",
+    "normalizr": "^3.2.3",
+    "prop-types": "^15.5.10",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.5",
+    "react-router-dom": "^4.1.1",
+    "redux": "^3.6.0",
+    "redux-actions": "^2.0.3",
+    "redux-immutable": "^4.0.0",
+    "redux-saga": "^0.15.3",
+    "reselect": "^3.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.22.1",
+    "babel-eslint": "^7.1.1",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-polyfill": "^6.22.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-es2016": "^6.24.1",
+    "babel-preset-es2017": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "eslint": "^3.14.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-node": "^4.2.2",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-react": "^7.0.1",
+    "eslint-plugin-standard": "^3.0.1",
+    "eslint_d": "^4.2.5",
+    "react-hot-loader": "^3.0.0-beta.7"
+  },
+  "name": "@nosearvores/bees",
+  "description": "Bees database",
+  "version": "1.0.0",
+  "author": "fiuzagr",
+  "license": "SEE LICENSE IN LICENSE"
+}
