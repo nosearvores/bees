@@ -2,26 +2,26 @@
   "short_name": "Bees",
   "name": "Bees",
   "description": "Bees database",
-  "lang": "en-US",
-  "start_url": "index.html",
-  "background_color": "#2196F3",
-  "theme_color": "#2196F3",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "background_color": "#151d26",
+  "theme_color": "#ffc857",
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
   "icons": [
     {
-      "src": "assets/images/icon_48x48.8f863e419e1fcbda3bb3b6761d480d5c.png",
+      "src": "assets/images/icon_48x48.e37ab954d1aa2b371e0c0d603c9d5d56.png",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "assets/images/icon_96x96.8be7574e731d6475a2dc8a0b89999e12.png",
+      "src": "assets/images/icon_96x96.52c050d55207b6fccae9c389cfc17973.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "assets/images/icon_192x192.a6722bee058a68ff219b1d01bc500c9a.png",
+      "src": "assets/images/icon_192x192.f12bf0ef98013364be06f718d8e1b3a3.png",
       "type": "image/png",
       "sizes": "192x192"
     }
