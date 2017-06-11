@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#ver:6/11/2017, 10:31:19 PM
+#ver:6/11/2017, 10:59:25 PM
 #plugin:4.7.0
 
 CACHE:
@@ -14,12 +14,12 @@ CACHE:
 /bees/static/icon_96x96.52c050d55207b6fccae9c389cfc17973.png
 /bees/static/icon_192x192.f12bf0ef98013364be06f718d8e1b3a3.png
 /bees/static/web-app.manifest.5a029e502a28fb8ff564cfded82dcadd.json
-/bees/static/vendor.e3deaaf111dcf60484b7.js
-/bees/static/polyfills.e3deaaf111dcf60484b7.js
-/bees/static/main.e3deaaf111dcf60484b7.js
+/bees/static/vendor.4ec775d0c9798612d3e0.js
+/bees/static/polyfills.4ec775d0c9798612d3e0.js
+/bees/static/main.4ec775d0c9798612d3e0.js
 /bees/static/webpack.manifest.json
-/bees/static/manifest.e3deaaf111dcf60484b7.js
-/bees/static/main.e3deaaf111dcf60484b7.css
+/bees/static/manifest.4ec775d0c9798612d3e0.js
+/bees/static/main.4ec775d0c9798612d3e0.css
 /bees/favicon.ico
 /bees/
 /bees/static/Roboto-Light.d8472f7b6012706fc028021e5a654843.ttf
@@ -40,14 +40,14 @@ CACHE:
 /bees/static/Roboto-LightItalic.44d2e2bedad9cfbfd91a2217c6a511aa.eot
 /bees/static/Roboto-LightItalic.89341573d9ebabd4b231ebb6069fd591.woff
 /bees/static/Roboto-Light.816d43bc217485bc52e309cd1b356880.woff
-/bees/static/BeesIcons.a74c2fb2fbee8d28df4e4760840d9af3.eot
-/bees/static/BeesIcons.94205a8a73a8e80f3f1e37dec900fe19.woff
-/bees/static/BeesIcons.d3bac4253efe382a1bb42900afc0f09f.woff2
-/bees/static/BeesIcons.674759a75b4d09bd6a455a1981300c76.ttf
-/bees/static/BeesIcons.b0b844f8a69d88c4debffb74ca789962.eot
-/bees/static/BeesIcons.5568549148703dd3d7bcdd5646f847a7.woff
-/bees/static/BeesIcons.3a8eda6c69ca0721dff4628735f406b1.woff2
-/bees/static/BeesIcons.e5e597340ae8a5952381bb96520a3b0f.ttf
+/bees/static/BeesIcons.05898f697dfcf28a9363675f91843b79.eot
+/bees/static/BeesIcons.9c2427d92ebaf53d4292bfec31924605.woff
+/bees/static/BeesIcons.a345dc53df50b45f8c53388fa6f4e4fd.woff2
+/bees/static/BeesIcons.27405f610ca6e9bfe9b9e0f1dad97843.ttf
+/bees/static/BeesIcons.ecd5b9426132bab66ad40fc9312bc9e5.eot
+/bees/static/BeesIcons.9a279b421e70aeb02c6c69a3ba553202.woff
+/bees/static/BeesIcons.06a8d3ccdbbd4751e9c6b7bfcf7bc5f1.woff2
+/bees/static/BeesIcons.c69353f3a3a082c5c49abba9fe77142c.ttf
 
 NETWORK:
 *
