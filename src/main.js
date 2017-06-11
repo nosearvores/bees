@@ -22,12 +22,12 @@ import {render} from 'react-dom';
 //
 // local
 import {createHistory, createStore} from 'lib';
-import {isCordova, debugMode, isBrowser} from 'app/constants';
+import {isCordova, debugMode, isBrowser, config} from 'app/constants';
 import {App} from 'app';
 import {combinedReducers} from 'app/redux/reducer';
 import {rootSagas} from 'app/redux/sagas';
 
-const history = createHistory('/', isBrowser);
+const history = createHistory(config.publicPath, isBrowser);
 const store = createStore({
   reducers: combinedReducers,
   rootSagas,
