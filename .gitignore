@@ -1,28 +1,20 @@
-# OS files
-.DS_Store
-ehthumbs.db
-Icon?
-Thumbs.db
+# Restritive ignore
+*
+.*
 
-# Node Files
-/node_modules/
-npm-debug.log
-npm-debug.log*
+!src
+!src/*
+!src/.*
 
-# Build
-/dist/
-/logs/
-*.log
+!.mira
+!.mira/*
+!.mira/.*
 
-# Public
-/public/
-
-# Env
-.env*
+!.babelrc
+!.editorconfig
 !.env.example
-
-
-
-##################
-# Keep directories
-!.gitkeep
+!.eslintignore
+!.gitignore
+!package.json
+!README.md
+!LICENSE

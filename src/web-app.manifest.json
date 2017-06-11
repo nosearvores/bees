@@ -8,7 +8,7 @@
   "theme_color": "#ffc857",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/",
+  "scope": "/bees/",
   "icons": [
     {
       "src": "assets/images/icons/icon_48x48.png",
