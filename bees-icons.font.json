@@ -1,0 +1,10 @@
+{
+  "files": [
+    "../images/icons/*.svg"
+  ],
+  "fontName": "MiraIcons",
+  "classPrefix": "micon-",
+  "baseSelector": ".micon",
+  "fixedWidth": true,
+  "types": ["eot", "woff", "woff2", "ttf", "svg"]
+}

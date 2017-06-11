@@ -1,0 +1,10 @@
+{
+  "files": [
+    "../images/icons/bees/*.svg"
+  ],
+  "fontName": "BeesIcons",
+  "classPrefix": "bee-icon-",
+  "baseSelector": ".bee-icon",
+  "fixedWidth": true,
+  "types": ["eot", "woff", "woff2", "ttf", "svg"]
+}

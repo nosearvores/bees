@@ -4,11 +4,11 @@
 $robotoPath = $fontPath + '/Roboto'
 
 font-face($family, $fileName, $weight, $style)
+  $fileName = $family + '-' + $fileName
   $filePath = $robotoPath + '/' + $fileName
   font-family: $family
   src: url($filePath + '.eot')
   src: url($filePath + '.eot?#iefix') format('embedded-opentype'),
-       url($filePath + '.woff2') format('woff2'),
        url($filePath + '.woff') format('woff'),
        url($filePath + '.ttf') format('ttf'),
        url($filePath + '.svg#' + $fileName) format('svg')
@@ -16,13 +16,19 @@ font-face($family, $fileName, $weight, $style)
   font-style: $style
 
 @font-face
-  font-face('Roboto', 'Roboto-Regular', 400, normal)
+  font-face('Roboto', 'Regular', 400, normal)
 
 @font-face
-  font-face('Roboto', 'Roboto-Italic', 400, italic)
+  font-face('Roboto', 'Italic', 400, italic)
 
 @font-face
-  font-face('Roboto', 'Roboto-Bold', 700, normal)
+  font-face('Roboto', 'Bold', 700, normal)
 
 @font-face
-  font-face('Roboto', 'Roboto-BoldItalic', 700, italic)
+  font-face('Roboto', 'BoldItalic', 700, italic)
+
+@font-face
+  font-face('Roboto', 'Light', 300, normal)
+
+@font-face
+  font-face('Roboto', 'LightItalic', 300, italic)

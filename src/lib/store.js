@@ -1,4 +1,5 @@
 // vendor
+import {Map} from 'immutable';
 import {createStore as _createStore, applyMiddleware, compose} from 'redux';
 import createSagaMiddleware from 'redux-saga';
 import {fork, take, cancel} from 'redux-saga/effects';
@@ -10,7 +11,7 @@ let store;
 export const createStore = ({
   reducers,
   rootSagas,
-  preloadedState = {},
+  preloadedState = Map(),
   settings = {},
   middlewares = [],
   enhancers = []
