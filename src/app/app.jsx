@@ -24,7 +24,7 @@ export class App extends PureComponent {
     const title = Component.title;
     const path = Component.path;
     this.props.store.dispatch(mainMenuPush({title, path}));
-    return <Route exact path={path} component={Component} />;
+    return <Route path={path} component={Component} />;
   }
 
   render () {

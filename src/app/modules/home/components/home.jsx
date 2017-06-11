@@ -3,7 +3,7 @@ import React, {PureComponent} from 'react';
 
 export class Home extends PureComponent {
   static title = 'Home';
-  static path = '/';
+  static path = '/bees/';
 
   render () {
     return (
