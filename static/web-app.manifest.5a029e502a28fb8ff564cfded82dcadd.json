@@ -1,0 +1,29 @@
+{
+  "short_name": "Bees",
+  "name": "Bees",
+  "description": "Bees database",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "background_color": "#151d26",
+  "theme_color": "#ffc857",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/bees/",
+  "icons": [
+    {
+      "src": "static/icon_48x48.e37ab954d1aa2b371e0c0d603c9d5d56.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "static/icon_96x96.52c050d55207b6fccae9c389cfc17973.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "static/icon_192x192.f12bf0ef98013364be06f718d8e1b3a3.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
