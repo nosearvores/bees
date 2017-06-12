@@ -3,7 +3,7 @@
   "name": "Bees",
   "description": "Bees database",
   "lang": "pt-BR",
-  "start_url": "/",
+  "start_url": "/bees/",
   "background_color": "#151d26",
   "theme_color": "#ffc857",
   "display": "standalone",

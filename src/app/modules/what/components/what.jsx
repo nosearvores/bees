@@ -3,7 +3,7 @@ import React, {PureComponent} from 'react';
 
 export class What extends PureComponent {
   static title = 'Definição';
-  static path = '/bees/definicao';
+  static path = '/definicao';
 
   render () {
     return (

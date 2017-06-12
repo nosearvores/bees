@@ -27,7 +27,7 @@ import {App} from 'app';
 import {combinedReducers} from 'app/redux/reducer';
 import {rootSagas} from 'app/redux/sagas';
 
-const history = createHistory('/bees/', isBrowser);
+const history = createHistory('/', isBrowser, true);
 const store = createStore({
   reducers: combinedReducers,
   rootSagas,

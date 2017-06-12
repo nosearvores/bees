@@ -1,12 +1,22 @@
 // history.js
 import createBrowserHistory from 'history/createBrowserHistory';
+import createHashHistory from 'history/createHashHistory';
 import createMemoryHistory from 'history/createMemoryHistory';
 
-export const createHistory = (basename = '/', isBrowser = true) => {
+export const createHistory = (
+  basename = '/',
+  isBrowser = true,
+  isOld = false
+) => {
   return isBrowser
-    ? createBrowserHistory({
-      basename
-    })
+    ? isOld
+        ? createHashHistory({
+          basename,
+          hashType: 'slash'
+        })
+        : createBrowserHistory({
+          basename
+        })
     : createMemoryHistory({
       initialEntries: [basename]
     });
