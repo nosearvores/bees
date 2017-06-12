@@ -3,12 +3,12 @@
 .*
 
 !src
-!src/*
-!src/.*
+!src/**/*
+!src/**/.*
 
 !.mira
-!.mira/*
-!.mira/.*
+!.mira/**/*
+!.mira/**/.*
 
 !.babelrc
 !.editorconfig
