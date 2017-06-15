@@ -22,3 +22,4 @@ import 'redux-saga';
 import 'reselect';
 import 'uuid/v4';
 import 'lodash';
+import 'react-google-charts';

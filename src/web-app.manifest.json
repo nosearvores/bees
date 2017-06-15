@@ -4,7 +4,7 @@
   "description": "Bees database",
   "lang": "pt-BR",
   "start_url": "/bees/",
-  "background_color": "#151d26",
+  "background_color": "#ffc857",
   "theme_color": "#ffc857",
   "display": "standalone",
   "orientation": "portrait",
