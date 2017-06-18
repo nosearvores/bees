@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#ver:6/15/2017, 10:21:24 PM
+#ver:6/18/2017, 1:49:29 PM
 #plugin:4.7.0
 
 CACHE:
@@ -8,12 +8,12 @@ CACHE:
 /bees/static/image/icon_96x96.52c050d55207b6fccae9c389cfc17973.png
 /bees/static/image/icon_192x192.f12bf0ef98013364be06f718d8e1b3a3.png
 /bees/static/web-app.manifest.json
-/bees/static/script/vendor.dcf76ddb87c86cc0f3e1.js
-/bees/static/script/polyfills.dcf76ddb87c86cc0f3e1.js
-/bees/static/script/main.dcf76ddb87c86cc0f3e1.js
+/bees/static/script/vendor.c14c0d9ba1d6c08b7426.js
+/bees/static/script/polyfills.c14c0d9ba1d6c08b7426.js
+/bees/static/script/main.c14c0d9ba1d6c08b7426.js
 /bees/static/webpack.manifest.json
-/bees/static/script/manifest.dcf76ddb87c86cc0f3e1.js
-/bees/static/style/main.dcf76ddb87c86cc0f3e1.css
+/bees/static/script/manifest.c14c0d9ba1d6c08b7426.js
+/bees/static/style/main.c14c0d9ba1d6c08b7426.css
 /bees/favicon.ico
 /bees/
 /bees/static/font/Roboto-Light.d8472f7b6012706fc028021e5a654843.ttf
@@ -34,14 +34,14 @@ CACHE:
 /bees/static/font/Roboto-LightItalic.44d2e2bedad9cfbfd91a2217c6a511aa.eot
 /bees/static/font/Roboto-LightItalic.89341573d9ebabd4b231ebb6069fd591.woff
 /bees/static/font/Roboto-Light.816d43bc217485bc52e309cd1b356880.woff
-/bees/static/font/BeesIcons.aec3b77abb0a16e01883e47de4892b9d.eot
-/bees/static/font/BeesIcons.f6124027b03775e5ee9512d6b689ebd1.woff
-/bees/static/font/BeesIcons.109e8ea04d58ab781e73c76b071cfa0c.woff2
-/bees/static/font/BeesIcons.f049c53426d91109e3a4e243069d8255.ttf
-/bees/static/font/BeesIcons.ef099144bc38afd1b3985c581e9d1967.eot
-/bees/static/font/BeesIcons.a1adb44d6c52bc0d0899c9103815480d.woff
-/bees/static/font/BeesIcons.47f37a03b0d89fd13884438a4e959d40.woff2
-/bees/static/font/BeesIcons.ac3c70e3b6ac1454c632c0f7dcceed45.ttf
+/bees/static/font/BeesIcons.e535d5969ab78c4e1ce93c704837487e.eot
+/bees/static/font/BeesIcons.a2c1a4c43ef2b0c72b76eb8b0a42665d.woff
+/bees/static/font/BeesIcons.d150863f20f28c1717d3de10f52344e9.woff2
+/bees/static/font/BeesIcons.5066a1aed32f182b38299d36371e1c5f.ttf
+/bees/static/font/BeesIcons.be1df9468d8d2afaf5d5312e984ae84f.eot
+/bees/static/font/BeesIcons.97ca57a922cbf4523c954c75d3489c19.woff
+/bees/static/font/BeesIcons.777f865ef058f6895285305c77303c32.woff2
+/bees/static/font/BeesIcons.ea4be044fd8d31b59fb7aeca68e27213.ttf
 /bees/static/font/Roboto-Italic.0886160e34ef0f84fae8c787a6bcd462.svg
 /bees/static/font/Roboto-BoldItalic.988da3562a286b41b0c5a8ede4edf02c.svg
 /bees/static/font/Roboto-Regular.da61d7ef302b8bf871dd0ae796a52f33.svg

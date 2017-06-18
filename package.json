@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "clean": "rimraf appcache static favicon.ico index.html sw.js",
+    "release": "mv dist/release/* .",
+    "dist": "npm run clean; npm run release; rimraf dist"
+  },
+  "dependencies": {
+    "rimraf": "^2.6.1"
+  },
+  "name": "@nosearvores/bees",
+  "description": "Bees database",
+  "version": "1.0.0",
+  "author": "fiuzagr",
+  "license": "SEE LICENSE IN LICENSE"
+}
