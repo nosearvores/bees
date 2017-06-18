@@ -70,16 +70,16 @@ var __wpo = {
     "c619e2a1630fdf4c74aadd2b388ffb744992ffda": "/bees/static/image/icon_192x192.f12bf0ef98013364be06f718d8e1b3a3.png",
     "d19fcbdce74cdee3657f745a6ad9538b8c42c346": "/bees/static/image/icon_48x48.e37ab954d1aa2b371e0c0d603c9d5d56.png",
     "435ccb8f8b908f1487dabaa53e4d6c316af86f69": "/bees/static/image/icon_96x96.52c050d55207b6fccae9c389cfc17973.png",
-    "0bc58ed2b77f4930d0543e58c8639533752e588d": "/bees/static/script/vendor.js",
-    "0a103bcd80c3eec021a4d92563c64b0d044a467c": "/bees/static/script/polyfills.js",
-    "e31d38a3ed766e0208f0536c4af91e37717d3b1b": "/bees/static/script/main.js",
+    "e491204be469988d36de8e81ff676c9cde2c1f67": "/bees/static/script/vendor.js",
+    "c847d003722986162b4255a11e56bb1b4afc823c": "/bees/static/script/polyfills.js",
+    "3978d7ba7f3c3e106d293779a8d0f37a0796306e": "/bees/static/script/main.js",
     "12d07dbccbceb17515e77be721c3a39a2a15c7b5": "/bees/static/script/manifest.js",
     "24885ae63cadd3b5d4cf135d24c1b94478d7478d": "/bees/favicon.ico",
-    "0948b92b065d0675567444eb7875573ed0d791fd": "/bees/"
+    "e3832e5e56bac45fee70510768927660d393a163": "/bees/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "6/18/2017, 2:50:38 PM",
+  "version": "6/18/2017, 2:58:42 PM",
   "name": "webpack-offline",
   "pluginVersion": "4.7.0",
   "relativePaths": false
