@@ -1,56 +1,45 @@
 CACHE MANIFEST
-#ver:6/18/2017, 1:49:29 PM
+#ver:6/18/2017, 2:50:38 PM
 #plugin:4.7.0
 
 CACHE:
-/bees/static/font/BeesIcons.22497a401ec85c399e1e7f23cbcdd38c.svg
+/bees/static/web-app.manifest.json
+/bees/static/image/icon_192x192.f12bf0ef98013364be06f718d8e1b3a3.png
 /bees/static/image/icon_48x48.e37ab954d1aa2b371e0c0d603c9d5d56.png
 /bees/static/image/icon_96x96.52c050d55207b6fccae9c389cfc17973.png
-/bees/static/image/icon_192x192.f12bf0ef98013364be06f718d8e1b3a3.png
-/bees/static/web-app.manifest.json
-/bees/static/script/vendor.c14c0d9ba1d6c08b7426.js
-/bees/static/script/polyfills.c14c0d9ba1d6c08b7426.js
-/bees/static/script/main.c14c0d9ba1d6c08b7426.js
-/bees/static/webpack.manifest.json
-/bees/static/script/manifest.c14c0d9ba1d6c08b7426.js
-/bees/static/style/main.c14c0d9ba1d6c08b7426.css
+/bees/static/script/vendor.js
+/bees/static/script/polyfills.js
+/bees/static/script/main.js
+/bees/static/script/manifest.js
 /bees/favicon.ico
 /bees/
-/bees/static/font/Roboto-Light.d8472f7b6012706fc028021e5a654843.ttf
-/bees/static/font/Roboto-LightItalic.42030b2e6c1e44babeaca1066e384818.ttf
-/bees/static/font/Roboto-Regular.7f1320f7ec4f6716054d88c33235d17b.ttf
-/bees/static/font/Roboto-Light.a990f611f2305dc12965f186c2ef2690.eot
+/bees/static/font/Roboto-Bold.ecdd509cadbf1ea78b8d2e31ec52328c.eot
 /bees/static/font/Roboto-BoldItalic.737b3d547d1a3d4126201753c5ebc671.eot
 /bees/static/font/Roboto-Italic.61bc7297d313b748c2da578315879de5.eot
-/bees/static/font/Roboto-BoldItalic.e13827fe044dd90ea6f7d6f84772ac90.ttf
-/bees/static/font/Roboto-Italic.2d8663b7f5336580f8514ea9327f34a0.ttf
-/bees/static/font/Roboto-BoldItalic.0a5d8fcf2f0eb8ca8c1c641b7e31d27f.woff
-/bees/static/font/Roboto-Bold.8b18d65d6824460ad37616723e493bcd.woff
-/bees/static/font/Roboto-Bold.ecdd509cadbf1ea78b8d2e31ec52328c.eot
-/bees/static/font/Roboto-Regular.30799efa5bf74129468ad4e257551dc3.eot
-/bees/static/font/Roboto-Bold.3dcc0e0f2287e2e955cd8ce8cb08dae0.ttf
-/bees/static/font/Roboto-Regular.3e5675c89f974f7811eeaf07e2dd5ba3.woff
-/bees/static/font/Roboto-Italic.a9a4c0305c6122f968f89f9a3b9a7776.woff
+/bees/static/font/Roboto-Light.a990f611f2305dc12965f186c2ef2690.eot
 /bees/static/font/Roboto-LightItalic.44d2e2bedad9cfbfd91a2217c6a511aa.eot
-/bees/static/font/Roboto-LightItalic.89341573d9ebabd4b231ebb6069fd591.woff
-/bees/static/font/Roboto-Light.816d43bc217485bc52e309cd1b356880.woff
-/bees/static/font/BeesIcons.e535d5969ab78c4e1ce93c704837487e.eot
-/bees/static/font/BeesIcons.a2c1a4c43ef2b0c72b76eb8b0a42665d.woff
-/bees/static/font/BeesIcons.d150863f20f28c1717d3de10f52344e9.woff2
-/bees/static/font/BeesIcons.5066a1aed32f182b38299d36371e1c5f.ttf
-/bees/static/font/BeesIcons.be1df9468d8d2afaf5d5312e984ae84f.eot
-/bees/static/font/BeesIcons.97ca57a922cbf4523c954c75d3489c19.woff
-/bees/static/font/BeesIcons.777f865ef058f6895285305c77303c32.woff2
-/bees/static/font/BeesIcons.ea4be044fd8d31b59fb7aeca68e27213.ttf
-/bees/static/font/Roboto-Italic.0886160e34ef0f84fae8c787a6bcd462.svg
-/bees/static/font/Roboto-BoldItalic.988da3562a286b41b0c5a8ede4edf02c.svg
-/bees/static/font/Roboto-Regular.da61d7ef302b8bf871dd0ae796a52f33.svg
-/bees/static/font/Roboto-LightItalic.f0e114a5e02b5b2868ffd665031bc683.svg
+/bees/static/font/Roboto-Regular.30799efa5bf74129468ad4e257551dc3.eot
 /bees/static/font/Roboto-Bold.375c4f3bd35840adee24a1535bbb2018.svg
+/bees/static/font/Roboto-Bold.3dcc0e0f2287e2e955cd8ce8cb08dae0.ttf
+/bees/static/font/Roboto-Bold.8b18d65d6824460ad37616723e493bcd.woff
+/bees/static/font/Roboto-BoldItalic.988da3562a286b41b0c5a8ede4edf02c.svg
+/bees/static/font/Roboto-BoldItalic.e13827fe044dd90ea6f7d6f84772ac90.ttf
+/bees/static/font/Roboto-BoldItalic.0a5d8fcf2f0eb8ca8c1c641b7e31d27f.woff
+/bees/static/font/Roboto-Italic.0886160e34ef0f84fae8c787a6bcd462.svg
+/bees/static/font/Roboto-Italic.2d8663b7f5336580f8514ea9327f34a0.ttf
+/bees/static/font/Roboto-Italic.a9a4c0305c6122f968f89f9a3b9a7776.woff
 /bees/static/font/Roboto-Light.3581138bd3477ae13eca1ac9e584220a.svg
+/bees/static/font/Roboto-Light.d8472f7b6012706fc028021e5a654843.ttf
+/bees/static/font/Roboto-Light.816d43bc217485bc52e309cd1b356880.woff
+/bees/static/font/Roboto-LightItalic.f0e114a5e02b5b2868ffd665031bc683.svg
+/bees/static/font/Roboto-LightItalic.42030b2e6c1e44babeaca1066e384818.ttf
+/bees/static/font/Roboto-LightItalic.89341573d9ebabd4b231ebb6069fd591.woff
+/bees/static/font/Roboto-Regular.da61d7ef302b8bf871dd0ae796a52f33.svg
+/bees/static/font/Roboto-Regular.7f1320f7ec4f6716054d88c33235d17b.ttf
+/bees/static/font/Roboto-Regular.3e5675c89f974f7811eeaf07e2dd5ba3.woff
 
 NETWORK:
 *
 
 FALLBACK:
-/ /
+/bees/ /bees/

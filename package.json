@@ -2,7 +2,9 @@
   "scripts": {
     "clean": "rimraf appcache static favicon.ico index.html sw.js",
     "release": "mv dist/release/* .",
-    "dist": "npm run clean; npm run release; rimraf dist"
+    "debug": "mv dist/debug/* .",
+    "dist": "npm run clean; npm run release; rimraf dist",
+    "dist:debug": "npm run clean; npm run debug; rimraf dist"
   },
   "dependencies": {
     "rimraf": "^2.6.1"

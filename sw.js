@@ -1,3 +1,822 @@
-var __wpo = {"assets":{"main":["/bees/static/font/BeesIcons.22497a401ec85c399e1e7f23cbcdd38c.svg","/bees/static/image/icon_48x48.e37ab954d1aa2b371e0c0d603c9d5d56.png","/bees/static/image/icon_96x96.52c050d55207b6fccae9c389cfc17973.png","/bees/static/image/icon_192x192.f12bf0ef98013364be06f718d8e1b3a3.png","/bees/static/web-app.manifest.json","/bees/static/script/vendor.c14c0d9ba1d6c08b7426.js","/bees/static/script/polyfills.c14c0d9ba1d6c08b7426.js","/bees/static/script/main.c14c0d9ba1d6c08b7426.js","/bees/static/webpack.manifest.json","/bees/static/script/manifest.c14c0d9ba1d6c08b7426.js","/bees/static/style/main.c14c0d9ba1d6c08b7426.css","/bees/favicon.ico","/bees/"],"additional":[],"optional":["/bees/static/font/Roboto-Light.d8472f7b6012706fc028021e5a654843.ttf","/bees/static/font/Roboto-LightItalic.42030b2e6c1e44babeaca1066e384818.ttf","/bees/static/font/Roboto-Regular.7f1320f7ec4f6716054d88c33235d17b.ttf","/bees/static/font/Roboto-Light.a990f611f2305dc12965f186c2ef2690.eot","/bees/static/font/Roboto-BoldItalic.737b3d547d1a3d4126201753c5ebc671.eot","/bees/static/font/Roboto-Italic.61bc7297d313b748c2da578315879de5.eot","/bees/static/font/Roboto-BoldItalic.e13827fe044dd90ea6f7d6f84772ac90.ttf","/bees/static/font/Roboto-Italic.2d8663b7f5336580f8514ea9327f34a0.ttf","/bees/static/font/Roboto-BoldItalic.0a5d8fcf2f0eb8ca8c1c641b7e31d27f.woff","/bees/static/font/Roboto-Bold.8b18d65d6824460ad37616723e493bcd.woff","/bees/static/font/Roboto-Bold.ecdd509cadbf1ea78b8d2e31ec52328c.eot","/bees/static/font/Roboto-Regular.30799efa5bf74129468ad4e257551dc3.eot","/bees/static/font/Roboto-Bold.3dcc0e0f2287e2e955cd8ce8cb08dae0.ttf","/bees/static/font/Roboto-Regular.3e5675c89f974f7811eeaf07e2dd5ba3.woff","/bees/static/font/Roboto-Italic.a9a4c0305c6122f968f89f9a3b9a7776.woff","/bees/static/font/Roboto-LightItalic.44d2e2bedad9cfbfd91a2217c6a511aa.eot","/bees/static/font/Roboto-LightItalic.89341573d9ebabd4b231ebb6069fd591.woff","/bees/static/font/Roboto-Light.816d43bc217485bc52e309cd1b356880.woff","/bees/static/font/BeesIcons.e535d5969ab78c4e1ce93c704837487e.eot","/bees/static/font/BeesIcons.a2c1a4c43ef2b0c72b76eb8b0a42665d.woff","/bees/static/font/BeesIcons.d150863f20f28c1717d3de10f52344e9.woff2","/bees/static/font/BeesIcons.5066a1aed32f182b38299d36371e1c5f.ttf","/bees/static/font/BeesIcons.be1df9468d8d2afaf5d5312e984ae84f.eot","/bees/static/font/BeesIcons.97ca57a922cbf4523c954c75d3489c19.woff","/bees/static/font/BeesIcons.777f865ef058f6895285305c77303c32.woff2","/bees/static/font/BeesIcons.ea4be044fd8d31b59fb7aeca68e27213.ttf","/bees/static/font/Roboto-Italic.0886160e34ef0f84fae8c787a6bcd462.svg","/bees/static/font/Roboto-BoldItalic.988da3562a286b41b0c5a8ede4edf02c.svg","/bees/static/font/Roboto-Regular.da61d7ef302b8bf871dd0ae796a52f33.svg","/bees/static/font/Roboto-LightItalic.f0e114a5e02b5b2868ffd665031bc683.svg","/bees/static/font/Roboto-Bold.375c4f3bd35840adee24a1535bbb2018.svg","/bees/static/font/Roboto-Light.3581138bd3477ae13eca1ac9e584220a.svg"]},"externals":[],"hashesMap":{"614e6f94621584e89db09d044f0a10d8d521e289":"/bees/static/font/Roboto-Italic.0886160e34ef0f84fae8c787a6bcd462.svg","90a18394410daab2f7def0c1d44d6a2c6f930843":"/bees/static/font/Roboto-Light.d8472f7b6012706fc028021e5a654843.ttf","32849d988652ab47395e96b5b916614d1d5d3871":"/bees/static/font/Roboto-BoldItalic.988da3562a286b41b0c5a8ede4edf02c.svg","19c3db4b0c4b1ee02a4f59d9b26ce8f29d791132":"/bees/static/font/Roboto-LightItalic.42030b2e6c1e44babeaca1066e384818.ttf","f707e98ad2f7cbe937d14537428630faba9a1d33":"/bees/static/font/Roboto-Regular.7f1320f7ec4f6716054d88c33235d17b.ttf","42fe156996197e5eb0c0264c5d1bb3b4681f4595":"/bees/static/font/Roboto-Light.a990f611f2305dc12965f186c2ef2690.eot","572fce32ae06379fd887825ccde421e6b1ff900a":"/bees/static/font/Roboto-BoldItalic.737b3d547d1a3d4126201753c5ebc671.eot","6e916ced854bbddc1711b2d54bbbae56bece0b6f":"/bees/static/font/Roboto-Italic.61bc7297d313b748c2da578315879de5.eot","2ef6dff163ba7d8c6f0b08e82cab2a3647a4888e":"/bees/static/font/Roboto-BoldItalic.e13827fe044dd90ea6f7d6f84772ac90.ttf","9cac18f017f304fb6b52634965beb87933210daa":"/bees/static/font/Roboto-Italic.2d8663b7f5336580f8514ea9327f34a0.ttf","74658e8062c2306d57a3885d55831ad2e2841c0d":"/bees/static/font/Roboto-Regular.da61d7ef302b8bf871dd0ae796a52f33.svg","c82afdb404c5cbab5e90a9d3c59a58cf3c604ab5":"/bees/static/font/Roboto-LightItalic.f0e114a5e02b5b2868ffd665031bc683.svg","3b9a6b366e22edf79e324309694a0c9eb94a53c3":"/bees/static/font/Roboto-BoldItalic.0a5d8fcf2f0eb8ca8c1c641b7e31d27f.woff","da4032f9e0a9753489a58f81bf02930ed6952e04":"/bees/static/font/Roboto-Bold.8b18d65d6824460ad37616723e493bcd.woff","fbb46da1ccda54b4b5b84287598fa92cf4873ced":"/bees/static/font/Roboto-Bold.375c4f3bd35840adee24a1535bbb2018.svg","a76cd602f5188b9fbd4ba7443dcb9c064e3dbf10":"/bees/static/font/Roboto-Bold.ecdd509cadbf1ea78b8d2e31ec52328c.eot","77ae3e980ec03863ebe2587a8ef9ddfd06941db0":"/bees/static/font/Roboto-Regular.30799efa5bf74129468ad4e257551dc3.eot","e1f98df0753298737a59d10ee3d276daf166c052":"/bees/static/font/Roboto-Bold.3dcc0e0f2287e2e955cd8ce8cb08dae0.ttf","99d93e1e3636f86c85b0c7c4da2077b4f1ee010c":"/bees/static/font/Roboto-Regular.3e5675c89f974f7811eeaf07e2dd5ba3.woff","e27044eb13932ef830767c9314cd46b6f1a7829a":"/bees/static/font/Roboto-Light.3581138bd3477ae13eca1ac9e584220a.svg","fc9e3d9b5a34951a7ad3e461120fa6316c3b754a":"/bees/static/font/Roboto-Italic.a9a4c0305c6122f968f89f9a3b9a7776.woff","bf92466157add53e2573abf1c3abee7a541fde87":"/bees/static/font/Roboto-LightItalic.44d2e2bedad9cfbfd91a2217c6a511aa.eot","f44c258d622f7ed73949c8532f62f31893708c39":"/bees/static/font/Roboto-LightItalic.89341573d9ebabd4b231ebb6069fd591.woff","55c6bb6eacc170fb282b487f7e4d01e76256ff2d":"/bees/static/font/Roboto-Light.816d43bc217485bc52e309cd1b356880.woff","c623f10bc645aa6daee504d70c2a6ddefe85a66a":"/bees/static/font/BeesIcons.e535d5969ab78c4e1ce93c704837487e.eot","21dc188755b217a9481a4da505da68b9e1472ba9":"/bees/static/font/BeesIcons.a2c1a4c43ef2b0c72b76eb8b0a42665d.woff","75dc64e91bd1d5c4ea01f5e3952ced802b1570b6":"/bees/static/font/BeesIcons.d150863f20f28c1717d3de10f52344e9.woff2","80ff826eb3641bc60fafc61f4d922a1bdc5fb397":"/bees/static/font/BeesIcons.5066a1aed32f182b38299d36371e1c5f.ttf","9719305bfc213aea8a88324ff8896a47e12bdde2":"/bees/static/font/BeesIcons.22497a401ec85c399e1e7f23cbcdd38c.svg","06e971a79321cd496ba91c4d639d4854df5215b9":"/bees/static/font/BeesIcons.be1df9468d8d2afaf5d5312e984ae84f.eot","46d282c1ebe3b9f86ad2fa3f79d64edb73fb90de":"/bees/static/font/BeesIcons.97ca57a922cbf4523c954c75d3489c19.woff","57ef15079d270bd7e7e78c8066e861a1486c9c00":"/bees/static/font/BeesIcons.777f865ef058f6895285305c77303c32.woff2","51c26ae9e607eda13dba56586679036ba1a925a1":"/bees/static/font/BeesIcons.ea4be044fd8d31b59fb7aeca68e27213.ttf","d19fcbdce74cdee3657f745a6ad9538b8c42c346":"/bees/static/image/icon_48x48.e37ab954d1aa2b371e0c0d603c9d5d56.png","435ccb8f8b908f1487dabaa53e4d6c316af86f69":"/bees/static/image/icon_96x96.52c050d55207b6fccae9c389cfc17973.png","c619e2a1630fdf4c74aadd2b388ffb744992ffda":"/bees/static/image/icon_192x192.f12bf0ef98013364be06f718d8e1b3a3.png","4d216c068100063ba24f8f44113f5e1df3da71ec":"/bees/static/web-app.manifest.json","4fa8cd1621c258f875eacabd9b2ed59c927c23d6":"/bees/static/script/vendor.c14c0d9ba1d6c08b7426.js","a9e1c952f73ae2b9e7946fe904052568d66b890f":"/bees/static/script/polyfills.c14c0d9ba1d6c08b7426.js","ca16c5263e75c769030e8c972e1d70fe59fbc08d":"/bees/static/script/main.c14c0d9ba1d6c08b7426.js","b1bd7bc6590770cb4c84958e8f7017d6d2d9a8e9":"/bees/static/webpack.manifest.json","7223ef54395f29a8d3fba3af01f897daa74f959e":"/bees/static/script/manifest.c14c0d9ba1d6c08b7426.js","2a74804779414938d25a7e9d1e04b69fe9ca7bba":"/bees/static/style/main.c14c0d9ba1d6c08b7426.css","24885ae63cadd3b5d4cf135d24c1b94478d7478d":"/bees/favicon.ico","d43239bc85e454013c058ed38e24ced20c377d01":"/bees/"},"strategy":"changed","responseStrategy":"cache-first","version":"6/18/2017, 1:49:29 PM","name":"webpack-offline","pluginVersion":"4.7.0","relativePaths":false};
+var __wpo = {
+  "assets": {
+    "main": [
+      "/bees/static/web-app.manifest.json",
+      "/bees/static/image/icon_192x192.f12bf0ef98013364be06f718d8e1b3a3.png",
+      "/bees/static/image/icon_48x48.e37ab954d1aa2b371e0c0d603c9d5d56.png",
+      "/bees/static/image/icon_96x96.52c050d55207b6fccae9c389cfc17973.png",
+      "/bees/static/script/vendor.js",
+      "/bees/static/script/polyfills.js",
+      "/bees/static/script/main.js",
+      "/bees/static/script/manifest.js",
+      "/bees/favicon.ico",
+      "/bees/"
+    ],
+    "additional": [],
+    "optional": [
+      "/bees/static/font/Roboto-Bold.ecdd509cadbf1ea78b8d2e31ec52328c.eot",
+      "/bees/static/font/Roboto-BoldItalic.737b3d547d1a3d4126201753c5ebc671.eot",
+      "/bees/static/font/Roboto-Italic.61bc7297d313b748c2da578315879de5.eot",
+      "/bees/static/font/Roboto-Light.a990f611f2305dc12965f186c2ef2690.eot",
+      "/bees/static/font/Roboto-LightItalic.44d2e2bedad9cfbfd91a2217c6a511aa.eot",
+      "/bees/static/font/Roboto-Regular.30799efa5bf74129468ad4e257551dc3.eot",
+      "/bees/static/font/Roboto-Bold.375c4f3bd35840adee24a1535bbb2018.svg",
+      "/bees/static/font/Roboto-Bold.3dcc0e0f2287e2e955cd8ce8cb08dae0.ttf",
+      "/bees/static/font/Roboto-Bold.8b18d65d6824460ad37616723e493bcd.woff",
+      "/bees/static/font/Roboto-BoldItalic.988da3562a286b41b0c5a8ede4edf02c.svg",
+      "/bees/static/font/Roboto-BoldItalic.e13827fe044dd90ea6f7d6f84772ac90.ttf",
+      "/bees/static/font/Roboto-BoldItalic.0a5d8fcf2f0eb8ca8c1c641b7e31d27f.woff",
+      "/bees/static/font/Roboto-Italic.0886160e34ef0f84fae8c787a6bcd462.svg",
+      "/bees/static/font/Roboto-Italic.2d8663b7f5336580f8514ea9327f34a0.ttf",
+      "/bees/static/font/Roboto-Italic.a9a4c0305c6122f968f89f9a3b9a7776.woff",
+      "/bees/static/font/Roboto-Light.3581138bd3477ae13eca1ac9e584220a.svg",
+      "/bees/static/font/Roboto-Light.d8472f7b6012706fc028021e5a654843.ttf",
+      "/bees/static/font/Roboto-Light.816d43bc217485bc52e309cd1b356880.woff",
+      "/bees/static/font/Roboto-LightItalic.f0e114a5e02b5b2868ffd665031bc683.svg",
+      "/bees/static/font/Roboto-LightItalic.42030b2e6c1e44babeaca1066e384818.ttf",
+      "/bees/static/font/Roboto-LightItalic.89341573d9ebabd4b231ebb6069fd591.woff",
+      "/bees/static/font/Roboto-Regular.da61d7ef302b8bf871dd0ae796a52f33.svg",
+      "/bees/static/font/Roboto-Regular.7f1320f7ec4f6716054d88c33235d17b.ttf",
+      "/bees/static/font/Roboto-Regular.3e5675c89f974f7811eeaf07e2dd5ba3.woff"
+    ]
+  },
+  "externals": [],
+  "hashesMap": {
+    "a76cd602f5188b9fbd4ba7443dcb9c064e3dbf10": "/bees/static/font/Roboto-Bold.ecdd509cadbf1ea78b8d2e31ec52328c.eot",
+    "572fce32ae06379fd887825ccde421e6b1ff900a": "/bees/static/font/Roboto-BoldItalic.737b3d547d1a3d4126201753c5ebc671.eot",
+    "6e916ced854bbddc1711b2d54bbbae56bece0b6f": "/bees/static/font/Roboto-Italic.61bc7297d313b748c2da578315879de5.eot",
+    "42fe156996197e5eb0c0264c5d1bb3b4681f4595": "/bees/static/font/Roboto-Light.a990f611f2305dc12965f186c2ef2690.eot",
+    "bf92466157add53e2573abf1c3abee7a541fde87": "/bees/static/font/Roboto-LightItalic.44d2e2bedad9cfbfd91a2217c6a511aa.eot",
+    "77ae3e980ec03863ebe2587a8ef9ddfd06941db0": "/bees/static/font/Roboto-Regular.30799efa5bf74129468ad4e257551dc3.eot",
+    "4d216c068100063ba24f8f44113f5e1df3da71ec": "/bees/static/web-app.manifest.json",
+    "fbb46da1ccda54b4b5b84287598fa92cf4873ced": "/bees/static/font/Roboto-Bold.375c4f3bd35840adee24a1535bbb2018.svg",
+    "e1f98df0753298737a59d10ee3d276daf166c052": "/bees/static/font/Roboto-Bold.3dcc0e0f2287e2e955cd8ce8cb08dae0.ttf",
+    "da4032f9e0a9753489a58f81bf02930ed6952e04": "/bees/static/font/Roboto-Bold.8b18d65d6824460ad37616723e493bcd.woff",
+    "32849d988652ab47395e96b5b916614d1d5d3871": "/bees/static/font/Roboto-BoldItalic.988da3562a286b41b0c5a8ede4edf02c.svg",
+    "2ef6dff163ba7d8c6f0b08e82cab2a3647a4888e": "/bees/static/font/Roboto-BoldItalic.e13827fe044dd90ea6f7d6f84772ac90.ttf",
+    "3b9a6b366e22edf79e324309694a0c9eb94a53c3": "/bees/static/font/Roboto-BoldItalic.0a5d8fcf2f0eb8ca8c1c641b7e31d27f.woff",
+    "614e6f94621584e89db09d044f0a10d8d521e289": "/bees/static/font/Roboto-Italic.0886160e34ef0f84fae8c787a6bcd462.svg",
+    "9cac18f017f304fb6b52634965beb87933210daa": "/bees/static/font/Roboto-Italic.2d8663b7f5336580f8514ea9327f34a0.ttf",
+    "fc9e3d9b5a34951a7ad3e461120fa6316c3b754a": "/bees/static/font/Roboto-Italic.a9a4c0305c6122f968f89f9a3b9a7776.woff",
+    "e27044eb13932ef830767c9314cd46b6f1a7829a": "/bees/static/font/Roboto-Light.3581138bd3477ae13eca1ac9e584220a.svg",
+    "90a18394410daab2f7def0c1d44d6a2c6f930843": "/bees/static/font/Roboto-Light.d8472f7b6012706fc028021e5a654843.ttf",
+    "55c6bb6eacc170fb282b487f7e4d01e76256ff2d": "/bees/static/font/Roboto-Light.816d43bc217485bc52e309cd1b356880.woff",
+    "c82afdb404c5cbab5e90a9d3c59a58cf3c604ab5": "/bees/static/font/Roboto-LightItalic.f0e114a5e02b5b2868ffd665031bc683.svg",
+    "19c3db4b0c4b1ee02a4f59d9b26ce8f29d791132": "/bees/static/font/Roboto-LightItalic.42030b2e6c1e44babeaca1066e384818.ttf",
+    "f44c258d622f7ed73949c8532f62f31893708c39": "/bees/static/font/Roboto-LightItalic.89341573d9ebabd4b231ebb6069fd591.woff",
+    "74658e8062c2306d57a3885d55831ad2e2841c0d": "/bees/static/font/Roboto-Regular.da61d7ef302b8bf871dd0ae796a52f33.svg",
+    "f707e98ad2f7cbe937d14537428630faba9a1d33": "/bees/static/font/Roboto-Regular.7f1320f7ec4f6716054d88c33235d17b.ttf",
+    "99d93e1e3636f86c85b0c7c4da2077b4f1ee010c": "/bees/static/font/Roboto-Regular.3e5675c89f974f7811eeaf07e2dd5ba3.woff",
+    "c619e2a1630fdf4c74aadd2b388ffb744992ffda": "/bees/static/image/icon_192x192.f12bf0ef98013364be06f718d8e1b3a3.png",
+    "d19fcbdce74cdee3657f745a6ad9538b8c42c346": "/bees/static/image/icon_48x48.e37ab954d1aa2b371e0c0d603c9d5d56.png",
+    "435ccb8f8b908f1487dabaa53e4d6c316af86f69": "/bees/static/image/icon_96x96.52c050d55207b6fccae9c389cfc17973.png",
+    "0bc58ed2b77f4930d0543e58c8639533752e588d": "/bees/static/script/vendor.js",
+    "0a103bcd80c3eec021a4d92563c64b0d044a467c": "/bees/static/script/polyfills.js",
+    "e31d38a3ed766e0208f0536c4af91e37717d3b1b": "/bees/static/script/main.js",
+    "12d07dbccbceb17515e77be721c3a39a2a15c7b5": "/bees/static/script/manifest.js",
+    "24885ae63cadd3b5d4cf135d24c1b94478d7478d": "/bees/favicon.ico",
+    "0948b92b065d0675567444eb7875573ed0d791fd": "/bees/"
+  },
+  "strategy": "changed",
+  "responseStrategy": "cache-first",
+  "version": "6/18/2017, 2:50:38 PM",
+  "name": "webpack-offline",
+  "pluginVersion": "4.7.0",
+  "relativePaths": false
+};
 
-!function(e){function __webpack_require__(t){if(n[t])return n[t].exports;var r=n[t]={i:t,l:!1,exports:{}};return e[t].call(r.exports,r,r.exports,__webpack_require__),r.l=!0,r.exports}var n={};__webpack_require__.m=e,__webpack_require__.c=n,__webpack_require__.i=function(e){return e},__webpack_require__.d=function(e,n,t){__webpack_require__.o(e,n)||Object.defineProperty(e,n,{configurable:!1,enumerable:!0,get:t})},__webpack_require__.n=function(e){var n=e&&e.__esModule?function(){return e.default}:function(){return e};return __webpack_require__.d(n,"a",n),n},__webpack_require__.o=function(e,n){return Object.prototype.hasOwnProperty.call(e,n)},__webpack_require__.p="/bees/",__webpack_require__(__webpack_require__.s="3CDH")}({"/ZHD":function(e,n){},"3CDH":function(e,n,t){"use strict";function cachesMatch(e,n){return caches.match(e,{cacheName:n}).then(function(t){return isNotRedirectedResponse()?t:fixRedirectedResponse(t).then(function(t){return caches.open(n).then(function(n){return n.put(e,t)}).then(function(){return t})})}).catch(function(){})}function applyCacheBust(e,n){return e+(-1!==e.indexOf("?")?"&":"?")+"__uncache="+encodeURIComponent(n)}function isNavigateRequest(e){return"navigate"===e.mode||e.headers.get("Upgrade-Insecure-Requests")||-1!==(e.headers.get("Accept")||"").indexOf("text/html")}function isNotRedirectedResponse(e){return!e||!e.redirected||!e.ok||"opaqueredirect"===e.type}function fixRedirectedResponse(e){return isNotRedirectedResponse(e)?Promise.resolve(e):("body"in e?Promise.resolve(e.body):e.blob()).then(function(n){return new Response(n,{headers:e.headers,status:e.status})})}function copyObject(e){return Object.keys(e).reduce(function(n,t){return n[t]=e[t],n},{})}function logGroup(e,n){console.groupCollapsed("[SW]:",e),n.forEach(function(e){console.log("Asset:",e)}),console.groupEnd()}if(void 0===r)var r=!1;!function(e,n){function cacheAdditional(){if(!i.additional.length)return Promise.resolve();r&&console.log("[SW]:","Caching additional");var e=void 0;return e="changed"===a?cacheChanged("additional"):cacheAssets("additional"),e.catch(function(e){console.error("[SW]:","Cache section `additional` failed to load")})}function cacheAssets(n){var t=i[n];return caches.open(d).then(function(n){return addAllNormalized(n,t,{bust:e.version,request:e.prefetchRequest})}).then(function(){logGroup("Cached assets: "+n,t)}).catch(function(e){throw console.error(e),e})}function cacheChanged(n){return getLastCache().then(function(t){if(!t)return cacheAssets(n);var r=t[0],o=t[1],a=t[2],c=a.hashmap,s=a.version;if(!a.hashmap||s===e.version)return cacheAssets(n);var f=Object.keys(c).map(function(e){return c[e]}),l=o.map(function(e){var n=new URL(e.url);return n.search="",n.toString()}),h=i[n],p=[],v=h.filter(function(e){return-1===l.indexOf(e)||-1===f.indexOf(e)});Object.keys(u).forEach(function(e){var n=u[e];if(-1!==h.indexOf(n)&&-1===v.indexOf(n)&&-1===p.indexOf(n)){var t=c[e];t&&-1!==l.indexOf(t)?p.push([t,n]):v.push(n)}}),logGroup("Changed assets: "+n,v),logGroup("Moved assets: "+n,p);var _=Promise.all(p.map(function(e){return r.match(e[0]).then(function(n){return[e[1],n]})}));return caches.open(d).then(function(n){var t=_.then(function(e){return Promise.all(e.map(function(e){return n.put(e[0],e[1])}))});return Promise.all([t,addAllNormalized(n,v,{bust:e.version,request:e.prefetchRequest})])})})}function deleteObsolete(){return caches.keys().then(function(e){var n=e.map(function(e){if(0===e.indexOf(l)&&0!==e.indexOf(d))return console.log("[SW]:","Delete cache:",e),caches.delete(e)});return Promise.all(n)})}function getLastCache(){return caches.keys().then(function(e){for(var n=e.length,t=void 0;n--&&(t=e[n],0!==t.indexOf(l)););if(t){var r=void 0;return caches.open(t).then(function(e){return r=e,e.match(new URL(p,location).toString())}).then(function(e){if(e)return Promise.all([r,r.keys(),e.json()])})}})}function storeCacheData(){return caches.open(d).then(function(n){var t=new Response(JSON.stringify({version:e.version,hashmap:u}));return n.put(new URL(p,location).toString(),t)})}function cacheFirstResponse(e,n,t){return cachesMatch(t,d).then(function(o){return o?(r&&console.log("[SW]:","URL ["+t+"]("+n+") from cache"),o):fetch(e.request).then(function(e){return e.ok?(r&&console.log("[SW]:","URL ["+n+"] from network"),t===n&&function(){var t=e.clone();caches.open(d).then(function(e){return e.put(n,t)}).then(function(){console.log("[SW]:","Cache asset: "+n)})}(),e):(r&&console.log("[SW]:","URL ["+n+"] wrong response: ["+e.status+"] "+e.type),e)})})}function networkFirstResponse(e,n,t){return fetch(e.request).then(function(e){if(e.ok)return r&&console.log("[SW]:","URL ["+n+"] from network"),e;throw new Error("Response is not ok")}).catch(function(){return r&&console.log("[SW]:","URL ["+n+"] from cache if possible"),cachesMatch(t,d)})}function handleNavigateFallback(e){return e.catch(function(){}).then(function(e){var n=e&&e.ok,t=e&&"opaqueredirect"===e.type;return n||t&&!g?e:(r&&console.log("[SW]:","Loading navigation fallback ["+_+"] from cache"),cachesMatch(_,d))})}function addAllNormalized(e,n,t){var r=!1!==t.allowLoaders,o=t&&t.bust,a=t.request||{credentials:"omit",mode:"cors"};return Promise.all(n.map(function(e){return o&&(e=applyCacheBust(e,o)),fetch(e,a).then(fixRedirectedResponse)})).then(function(o){if(o.some(function(e){return!e.ok}))return Promise.reject(new Error("Wrong response status"));var a=[],c=o.map(function(t,o){return r&&a.push(extractAssetsWithLoaders(n[o],t)),e.put(n[o],t)});return a.length?function(){var r=copyObject(t);r.allowLoaders=!1;var o=c;c=Promise.all(a).then(function(t){var a=[].concat.apply([],t);return n.length&&(o=o.concat(addAllNormalized(e,a,r))),Promise.all(o)})}():c=Promise.all(c),c})}function extractAssetsWithLoaders(e,n){var r=Object.keys(s).map(function(r){if(-1!==s[r].indexOf(e)&&t[r])return t[r](n.clone())}).filter(function(e){return!!e});return Promise.all(r).then(function(e){return[].concat.apply([],e)})}function matchCacheMap(e){var n=e.url,t=new URL(n),r=void 0;r="navigate"===e.mode?"navigate":t.origin===location.origin?"same-origin":"cross-origin";for(var a=0;a<o.length;a++){var c=o[a];if(c&&(!c.requestTypes||-1!==c.requestTypes.indexOf(r))){var i=void 0;if((i="function"==typeof c.match?c.match(t,e):n.replace(c.match,c.to))&&i!==n)return i}}}var t=n.loaders,o=n.cacheMaps,a=e.strategy,c=e.responseStrategy,i=e.assets,s=e.loaders||{},u=e.hashesMap,f=e.externals,l=e.name,h=e.version,d=l+":"+h,p="__offline_webpack__data";!function(){Object.keys(i).forEach(function(e){i[e]=i[e].map(function(e){var n=new URL(e,location);return-1===f.indexOf(e)?n.search="":n.hash="",n.toString()})}),Object.keys(s).forEach(function(e){s[e]=s[e].map(function(e){var n=new URL(e,location);return-1===f.indexOf(e)?n.search="":n.hash="",n.toString()})}),u=Object.keys(u).reduce(function(e,n){var t=new URL(u[n],location);return t.search="",e[n]=t.toString(),e},{}),f=f.map(function(e){var n=new URL(e,location);return n.hash="",n.toString()})}();var v=[].concat(i.main,i.additional,i.optional),_=e.navigateFallbackURL,g=e.navigateFallbackForRedirects;self.addEventListener("install",function(e){console.log("[SW]:","Install event");var n=void 0;n="changed"===a?cacheChanged("main"):cacheAssets("main"),e.waitUntil(n)}),self.addEventListener("activate",function(e){console.log("[SW]:","Activate event");var n=cacheAdditional();n=n.then(storeCacheData),n=n.then(deleteObsolete),n=n.then(function(){if(self.clients&&self.clients.claim)return self.clients.claim()}),e.waitUntil(n)}),self.addEventListener("fetch",function(e){var n=e.request.url,t=new URL(n),r=void 0;-1!==f.indexOf(n)?r=n:(t.search="",r=t.toString());var o="GET"===e.request.method,a=-1!==v.indexOf(r),i=r;if(!a){var s=matchCacheMap(e.request);s&&(i=s,a=!0)}if(!a&&o&&_&&isNavigateRequest(e.request))return void e.respondWith(handleNavigateFallback(fetch(e.request)));if(!a||!o)return void(t.origin!==location.origin&&-1!==navigator.userAgent.indexOf("Firefox/44.")&&e.respondWith(fetch(e.request)));var u=void 0;u="network-first"===c?networkFirstResponse(e,r,i):cacheFirstResponse(e,r,i),_&&isNavigateRequest(e.request)&&(u=handleNavigateFallback(u)),e.respondWith(u)}),self.addEventListener("message",function(e){var n=e.data;if(n)switch(n.action){case"skipWaiting":self.skipWaiting&&self.skipWaiting()}})}(__wpo,{loaders:{},cacheMaps:[]}),e.exports=t("/ZHD")}});
+/******/ (function(modules) { // webpackBootstrap
+/******/ 	// The module cache
+/******/ 	var installedModules = {};
+/******/
+/******/ 	// The require function
+/******/ 	function __webpack_require__(moduleId) {
+/******/
+/******/ 		// Check if module is in cache
+/******/ 		if(installedModules[moduleId]) {
+/******/ 			return installedModules[moduleId].exports;
+/******/ 		}
+/******/ 		// Create a new module (and put it into the cache)
+/******/ 		var module = installedModules[moduleId] = {
+/******/ 			i: moduleId,
+/******/ 			l: false,
+/******/ 			exports: {}
+/******/ 		};
+/******/
+/******/ 		// Execute the module function
+/******/ 		modules[moduleId].call(module.exports, module, module.exports, __webpack_require__);
+/******/
+/******/ 		// Flag the module as loaded
+/******/ 		module.l = true;
+/******/
+/******/ 		// Return the exports of the module
+/******/ 		return module.exports;
+/******/ 	}
+/******/
+/******/
+/******/ 	// expose the modules object (__webpack_modules__)
+/******/ 	__webpack_require__.m = modules;
+/******/
+/******/ 	// expose the module cache
+/******/ 	__webpack_require__.c = installedModules;
+/******/
+/******/ 	// identity function for calling harmony imports with the correct context
+/******/ 	__webpack_require__.i = function(value) { return value; };
+/******/
+/******/ 	// define getter function for harmony exports
+/******/ 	__webpack_require__.d = function(exports, name, getter) {
+/******/ 		if(!__webpack_require__.o(exports, name)) {
+/******/ 			Object.defineProperty(exports, name, {
+/******/ 				configurable: false,
+/******/ 				enumerable: true,
+/******/ 				get: getter
+/******/ 			});
+/******/ 		}
+/******/ 	};
+/******/
+/******/ 	// getDefaultExport function for compatibility with non-harmony modules
+/******/ 	__webpack_require__.n = function(module) {
+/******/ 		var getter = module && module.__esModule ?
+/******/ 			function getDefault() { return module['default']; } :
+/******/ 			function getModuleExports() { return module; };
+/******/ 		__webpack_require__.d(getter, 'a', getter);
+/******/ 		return getter;
+/******/ 	};
+/******/
+/******/ 	// Object.prototype.hasOwnProperty.call
+/******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
+/******/
+/******/ 	// __webpack_public_path__
+/******/ 	__webpack_require__.p = "/bees/";
+/******/
+/******/ 	// Load entry module and return exports
+/******/ 	return __webpack_require__(__webpack_require__.s = 1);
+/******/ })
+/************************************************************************/
+/******/ ([
+/* 0 */
+/***/ (function(module, exports) {
+
+
+
+/***/ }),
+/* 1 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+      
+
+if (typeof DEBUG === 'undefined') {
+  var DEBUG = false;
+}
+
+function WebpackServiceWorker(params, helpers) {
+  var loaders = helpers.loaders;
+  var cacheMaps = helpers.cacheMaps;
+
+  var strategy = params.strategy;
+  var responseStrategy = params.responseStrategy;
+
+  var assets = params.assets;
+  var loadersMap = params.loaders || {};
+
+  var hashesMap = params.hashesMap;
+  var externals = params.externals;
+
+  // Not used yet
+  // const alwaysRevalidate = params.alwaysRevalidate;
+  // const ignoreSearch = params.ignoreSearch;
+  // const preferOnline = params.preferOnline;
+
+  var CACHE_PREFIX = params.name;
+  var CACHE_TAG = params.version;
+  var CACHE_NAME = CACHE_PREFIX + ':' + CACHE_TAG;
+
+  var STORED_DATA_KEY = '__offline_webpack__data';
+
+  mapAssets();
+
+  var allAssets = [].concat(assets.main, assets.additional, assets.optional);
+  var navigateFallbackURL = params.navigateFallbackURL;
+  var navigateFallbackForRedirects = params.navigateFallbackForRedirects;
+
+  self.addEventListener('install', function (event) {
+    console.log('[SW]:', 'Install event');
+
+    var installing = undefined;
+
+    if (strategy === 'changed') {
+      installing = cacheChanged('main');
+    } else {
+      installing = cacheAssets('main');
+    }
+
+    event.waitUntil(installing);
+  });
+
+  self.addEventListener('activate', function (event) {
+    console.log('[SW]:', 'Activate event');
+
+    var activation = cacheAdditional();
+
+    // Delete all assets which name starts with CACHE_PREFIX and
+    // is not current cache (CACHE_NAME)
+    activation = activation.then(storeCacheData);
+    activation = activation.then(deleteObsolete);
+    activation = activation.then(function () {
+      if (self.clients && self.clients.claim) {
+        return self.clients.claim();
+      }
+    });
+
+    event.waitUntil(activation);
+  });
+
+  function cacheAdditional() {
+    if (!assets.additional.length) {
+      return Promise.resolve();
+    }
+
+    if (DEBUG) {
+      console.log('[SW]:', 'Caching additional');
+    }
+
+    var operation = undefined;
+
+    if (strategy === 'changed') {
+      operation = cacheChanged('additional');
+    } else {
+      operation = cacheAssets('additional');
+    }
+
+    // Ignore fail of `additional` cache section
+    return operation['catch'](function (e) {
+      console.error('[SW]:', 'Cache section `additional` failed to load');
+    });
+  }
+
+  function cacheAssets(section) {
+    var batch = assets[section];
+
+    return caches.open(CACHE_NAME).then(function (cache) {
+      return addAllNormalized(cache, batch, {
+        bust: params.version,
+        request: params.prefetchRequest
+      });
+    }).then(function () {
+      logGroup('Cached assets: ' + section, batch);
+    })['catch'](function (e) {
+      console.error(e);
+      throw e;
+    });
+  }
+
+  function cacheChanged(section) {
+    return getLastCache().then(function (args) {
+      if (!args) {
+        return cacheAssets(section);
+      }
+
+      var lastCache = args[0];
+      var lastKeys = args[1];
+      var lastData = args[2];
+
+      var lastMap = lastData.hashmap;
+      var lastVersion = lastData.version;
+
+      if (!lastData.hashmap || lastVersion === params.version) {
+        return cacheAssets(section);
+      }
+
+      var lastHashedAssets = Object.keys(lastMap).map(function (hash) {
+        return lastMap[hash];
+      });
+
+      var lastUrls = lastKeys.map(function (req) {
+        var url = new URL(req.url);
+        url.search = '';
+
+        return url.toString();
+      });
+
+      var sectionAssets = assets[section];
+      var moved = [];
+      var changed = sectionAssets.filter(function (url) {
+        if (lastUrls.indexOf(url) === -1 || lastHashedAssets.indexOf(url) === -1) {
+          return true;
+        }
+
+        return false;
+      });
+
+      Object.keys(hashesMap).forEach(function (hash) {
+        var asset = hashesMap[hash];
+
+        // Return if not in sectionAssets or in changed or moved array
+        if (sectionAssets.indexOf(asset) === -1 || changed.indexOf(asset) !== -1 || moved.indexOf(asset) !== -1) return;
+
+        var lastAsset = lastMap[hash];
+
+        if (lastAsset && lastUrls.indexOf(lastAsset) !== -1) {
+          moved.push([lastAsset, asset]);
+        } else {
+          changed.push(asset);
+        }
+      });
+
+      logGroup('Changed assets: ' + section, changed);
+      logGroup('Moved assets: ' + section, moved);
+
+      var movedResponses = Promise.all(moved.map(function (pair) {
+        return lastCache.match(pair[0]).then(function (response) {
+          return [pair[1], response];
+        });
+      }));
+
+      return caches.open(CACHE_NAME).then(function (cache) {
+        var move = movedResponses.then(function (responses) {
+          return Promise.all(responses.map(function (pair) {
+            return cache.put(pair[0], pair[1]);
+          }));
+        });
+
+        return Promise.all([move, addAllNormalized(cache, changed, {
+          bust: params.version,
+          request: params.prefetchRequest
+        })]);
+      });
+    });
+  }
+
+  function deleteObsolete() {
+    return caches.keys().then(function (keys) {
+      var all = keys.map(function (key) {
+        if (key.indexOf(CACHE_PREFIX) !== 0 || key.indexOf(CACHE_NAME) === 0) return;
+
+        console.log('[SW]:', 'Delete cache:', key);
+        return caches['delete'](key);
+      });
+
+      return Promise.all(all);
+    });
+  }
+
+  function getLastCache() {
+    return caches.keys().then(function (keys) {
+      var index = keys.length;
+      var key = undefined;
+
+      while (index--) {
+        key = keys[index];
+
+        if (key.indexOf(CACHE_PREFIX) === 0) {
+          break;
+        }
+      }
+
+      if (!key) return;
+
+      var cache = undefined;
+
+      return caches.open(key).then(function (_cache) {
+        cache = _cache;
+        return _cache.match(new URL(STORED_DATA_KEY, location).toString());
+      }).then(function (response) {
+        if (!response) return;
+
+        return Promise.all([cache, cache.keys(), response.json()]);
+      });
+    });
+  }
+
+  function storeCacheData() {
+    return caches.open(CACHE_NAME).then(function (cache) {
+      var data = new Response(JSON.stringify({
+        version: params.version,
+        hashmap: hashesMap
+      }));
+
+      return cache.put(new URL(STORED_DATA_KEY, location).toString(), data);
+    });
+  }
+
+  self.addEventListener('fetch', function (event) {
+    var requestUrl = event.request.url;
+    var url = new URL(requestUrl);
+    var urlString = undefined;
+
+    if (externals.indexOf(requestUrl) !== -1) {
+      urlString = requestUrl;
+    } else {
+      url.search = '';
+      urlString = url.toString();
+    }
+
+    // Handle only GET requests
+    var isGET = event.request.method === 'GET';
+    var assetMatches = allAssets.indexOf(urlString) !== -1;
+    var cacheUrl = urlString;
+
+    if (!assetMatches) {
+      var cacheRewrite = matchCacheMap(event.request);
+
+      if (cacheRewrite) {
+        cacheUrl = cacheRewrite;
+        assetMatches = true;
+      }
+    }
+
+    if (!assetMatches && isGET) {
+      // If isn't a cached asset and is a navigation request,
+      // fallback to navigateFallbackURL if available
+      if (navigateFallbackURL && isNavigateRequest(event.request)) {
+        event.respondWith(handleNavigateFallback(fetch(event.request)));
+
+        return;
+      }
+    }
+
+    if (!assetMatches || !isGET) {
+      // Fix for https://twitter.com/wanderview/status/696819243262873600
+      if (url.origin !== location.origin && navigator.userAgent.indexOf('Firefox/44.') !== -1) {
+        event.respondWith(fetch(event.request));
+      }
+
+      return;
+    }
+
+    // Logic of caching / fetching is here
+    // * urlString -- url to match from the CACHE_NAME
+    // * event.request -- original Request to perform fetch() if necessary
+    var resource = undefined;
+
+    if (responseStrategy === 'network-first') {
+      resource = networkFirstResponse(event, urlString, cacheUrl);
+    }
+    // 'cache-first'
+    // (responseStrategy has been validated before)
+    else {
+        resource = cacheFirstResponse(event, urlString, cacheUrl);
+      }
+
+    if (navigateFallbackURL && isNavigateRequest(event.request)) {
+      resource = handleNavigateFallback(resource);
+    }
+
+    event.respondWith(resource);
+  });
+
+  self.addEventListener('message', function (e) {
+    var data = e.data;
+    if (!data) return;
+
+    switch (data.action) {
+      case 'skipWaiting':
+        {
+          if (self.skipWaiting) self.skipWaiting();
+        }break;
+    }
+  });
+
+  function cacheFirstResponse(event, urlString, cacheUrl) {
+    return cachesMatch(cacheUrl, CACHE_NAME).then(function (response) {
+      if (response) {
+        if (DEBUG) {
+          console.log('[SW]:', 'URL [' + cacheUrl + '](' + urlString + ') from cache');
+        }
+
+        return response;
+      }
+
+      // Load and cache known assets
+      var fetching = fetch(event.request).then(function (response) {
+        if (!response.ok) {
+          if (DEBUG) {
+            console.log('[SW]:', 'URL [' + urlString + '] wrong response: [' + response.status + '] ' + response.type);
+          }
+
+          return response;
+        }
+
+        if (DEBUG) {
+          console.log('[SW]:', 'URL [' + urlString + '] from network');
+        }
+
+        if (cacheUrl === urlString) {
+          (function () {
+            var responseClone = response.clone();
+
+            caches.open(CACHE_NAME).then(function (cache) {
+              return cache.put(urlString, responseClone);
+            }).then(function () {
+              console.log('[SW]:', 'Cache asset: ' + urlString);
+            });
+          })();
+        }
+
+        return response;
+      });
+
+      return fetching;
+    });
+  }
+
+  function networkFirstResponse(event, urlString, cacheUrl) {
+    return fetch(event.request).then(function (response) {
+      if (response.ok) {
+        if (DEBUG) {
+          console.log('[SW]:', 'URL [' + urlString + '] from network');
+        }
+
+        return response;
+      }
+
+      // Throw to reach the code in the catch below
+      throw new Error('Response is not ok');
+    })
+    // This needs to be in a catch() and not just in the then() above
+    // cause if your network is down, the fetch() will throw
+    ['catch'](function () {
+      if (DEBUG) {
+        console.log('[SW]:', 'URL [' + urlString + '] from cache if possible');
+      }
+
+      return cachesMatch(cacheUrl, CACHE_NAME);
+    });
+  }
+
+  function handleNavigateFallback(fetching) {
+    return fetching['catch'](function () {}).then(function (response) {
+      var isOk = response && response.ok;
+      var isRedirect = response && response.type === 'opaqueredirect';
+
+      if (isOk || isRedirect && !navigateFallbackForRedirects) {
+        return response;
+      }
+
+      if (DEBUG) {
+        console.log('[SW]:', 'Loading navigation fallback [' + navigateFallbackURL + '] from cache');
+      }
+
+      return cachesMatch(navigateFallbackURL, CACHE_NAME);
+    });
+  }
+
+  function mapAssets() {
+    Object.keys(assets).forEach(function (key) {
+      assets[key] = assets[key].map(function (path) {
+        var url = new URL(path, location);
+
+        if (externals.indexOf(path) === -1) {
+          url.search = '';
+        } else {
+          // Remove hash from possible passed externals
+          url.hash = '';
+        }
+
+        return url.toString();
+      });
+    });
+
+    Object.keys(loadersMap).forEach(function (key) {
+      loadersMap[key] = loadersMap[key].map(function (path) {
+        var url = new URL(path, location);
+
+        if (externals.indexOf(path) === -1) {
+          url.search = '';
+        } else {
+          // Remove hash from possible passed externals
+          url.hash = '';
+        }
+
+        return url.toString();
+      });
+    });
+
+    hashesMap = Object.keys(hashesMap).reduce(function (result, hash) {
+      var url = new URL(hashesMap[hash], location);
+      url.search = '';
+
+      result[hash] = url.toString();
+      return result;
+    }, {});
+
+    externals = externals.map(function (path) {
+      var url = new URL(path, location);
+      url.hash = '';
+
+      return url.toString();
+    });
+  }
+
+  function addAllNormalized(cache, requests, options) {
+    var allowLoaders = options.allowLoaders !== false;
+    var bustValue = options && options.bust;
+    var requestInit = options.request || {
+      credentials: 'omit',
+      mode: 'cors'
+    };
+
+    return Promise.all(requests.map(function (request) {
+      if (bustValue) {
+        request = applyCacheBust(request, bustValue);
+      }
+
+      return fetch(request, requestInit).then(fixRedirectedResponse);
+    })).then(function (responses) {
+      if (responses.some(function (response) {
+        return !response.ok;
+      })) {
+        return Promise.reject(new Error('Wrong response status'));
+      }
+
+      var extracted = [];
+      var addAll = responses.map(function (response, i) {
+        if (allowLoaders) {
+          extracted.push(extractAssetsWithLoaders(requests[i], response));
+        }
+
+        return cache.put(requests[i], response);
+      });
+
+      if (extracted.length) {
+        (function () {
+          var newOptions = copyObject(options);
+          newOptions.allowLoaders = false;
+
+          var waitAll = addAll;
+
+          addAll = Promise.all(extracted).then(function (all) {
+            var extractedRequests = [].concat.apply([], all);
+
+            if (requests.length) {
+              waitAll = waitAll.concat(addAllNormalized(cache, extractedRequests, newOptions));
+            }
+
+            return Promise.all(waitAll);
+          });
+        })();
+      } else {
+        addAll = Promise.all(addAll);
+      }
+
+      return addAll;
+    });
+  }
+
+  function extractAssetsWithLoaders(request, response) {
+    var all = Object.keys(loadersMap).map(function (key) {
+      var loader = loadersMap[key];
+
+      if (loader.indexOf(request) !== -1 && loaders[key]) {
+        return loaders[key](response.clone());
+      }
+    }).filter(function (a) {
+      return !!a;
+    });
+
+    return Promise.all(all).then(function (all) {
+      return [].concat.apply([], all);
+    });
+  }
+
+  function matchCacheMap(request) {
+    var urlString = request.url;
+    var url = new URL(urlString);
+
+    var requestType = undefined;
+
+    if (request.mode === 'navigate') {
+      requestType = 'navigate';
+    } else if (url.origin === location.origin) {
+      requestType = 'same-origin';
+    } else {
+      requestType = 'cross-origin';
+    }
+
+    for (var i = 0; i < cacheMaps.length; i++) {
+      var map = cacheMaps[i];
+
+      if (!map) continue;
+      if (map.requestTypes && map.requestTypes.indexOf(requestType) === -1) {
+        continue;
+      }
+
+      var newString = undefined;
+
+      if (typeof map.match === 'function') {
+        newString = map.match(url, request);
+      } else {
+        newString = urlString.replace(map.match, map.to);
+      }
+
+      if (newString && newString !== urlString) {
+        return newString;
+      }
+    }
+  }
+}
+
+function cachesMatch(request, cacheName) {
+  return caches.match(request, {
+    cacheName: cacheName
+  }).then(function (response) {
+    if (isNotRedirectedResponse()) {
+      return response;
+    }
+
+    // Fix already cached redirected responses
+    return fixRedirectedResponse(response).then(function (fixedResponse) {
+      return caches.open(cacheName).then(function (cache) {
+        return cache.put(request, fixedResponse);
+      }).then(function () {
+        return fixedResponse;
+      });
+    });
+  })
+  // Return void if error happened (cache not found)
+  ['catch'](function () {});
+}
+
+function applyCacheBust(asset, key) {
+  var hasQuery = asset.indexOf('?') !== -1;
+  return asset + (hasQuery ? '&' : '?') + '__uncache=' + encodeURIComponent(key);
+}
+
+function getClientsURLs() {
+  if (!self.clients) {
+    return Promise.resolve([]);
+  }
+
+  return self.clients.matchAll({
+    includeUncontrolled: true
+  }).then(function (clients) {
+    if (!clients.length) return [];
+
+    var result = [];
+
+    clients.forEach(function (client) {
+      var url = new URL(client.url);
+      url.search = '';
+      url.hash = '';
+      var urlString = url.toString();
+
+      if (!result.length || result.indexOf(urlString) === -1) {
+        result.push(urlString);
+      }
+    });
+
+    return result;
+  });
+}
+
+function isNavigateRequest(request) {
+  return request.mode === 'navigate' || request.headers.get('Upgrade-Insecure-Requests') || (request.headers.get('Accept') || '').indexOf('text/html') !== -1;
+}
+
+function isNotRedirectedResponse(response) {
+  return !response || !response.redirected || !response.ok || response.type === 'opaqueredirect';
+}
+
+// Based on https://github.com/GoogleChrome/sw-precache/pull/241/files#diff-3ee9060dc7a312c6a822cac63a8c630bR85
+function fixRedirectedResponse(response) {
+  if (isNotRedirectedResponse(response)) {
+    return Promise.resolve(response);
+  }
+
+  var body = 'body' in response ? Promise.resolve(response.body) : response.blob();
+
+  return body.then(function (data) {
+    return new Response(data, {
+      headers: response.headers,
+      status: response.status
+    });
+  });
+}
+
+function copyObject(original) {
+  return Object.keys(original).reduce(function (result, key) {
+    result[key] = original[key];
+    return result;
+  }, {});
+}
+
+function logGroup(title, assets) {
+  console.groupCollapsed('[SW]:', title);
+
+  assets.forEach(function (asset) {
+    console.log('Asset:', asset);
+  });
+
+  console.groupEnd();
+}
+      WebpackServiceWorker(__wpo, {
+loaders: {},
+cacheMaps: [],
+});
+      module.exports = __webpack_require__(0)
+    
+
+/***/ })
+/******/ ]);
